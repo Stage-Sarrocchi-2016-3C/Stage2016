@@ -32,7 +32,7 @@ ___
 * C#
 * JAVA
 
-## PROGRAMMAZIONE ORIENTATA VS PROGRAMMAZIONE BASATA SUGLI OGGETTI**
+## PROGRAMMAZIONE ORIENTATA VS PROGRAMMAZIONE BASATA SUGLI OGGETTI
 
 >Alla programmazione basata sugli oggetti mancano alcune caratteristiche della programmazione orientata ad oggetti come il “polimorfismo” e “l’ereditarietà”.
 La programmazione ad oggetti supporta le funzioni in-built ovvero degli oggetti incorporati con il linguaggio che semplificano lo sviluppo.

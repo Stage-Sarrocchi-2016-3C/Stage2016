@@ -1,0 +1,14 @@
+{
+  "name": "stage2016",
+  "version": "1.0.0",
+  "description": "Sito Stage 2016 IIIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Lorenzo e Claudio",
+  "license": "ISC",
+  "devDependencies": {
+    "surge": "latest"
+  }
+}
