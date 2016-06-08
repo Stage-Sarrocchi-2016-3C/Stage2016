@@ -1,7 +1,7 @@
 ## Benvenuto sul sito dello stage Sarrocchi - GFT
 
-#### Premi [questo link](Lorenzo\StagePlan.md) per vedere il lavoro svolto da Lorenzo.
-#### Premi [questo link](Claudio\StagePlan.md) per vedere il lavoro svolto da Claudio.
+#### Premi [questo link](Lorenzo\index.md) per vedere il lavoro svolto da Lorenzo.
+#### Premi [questo link](Claudio\index.md) per vedere il lavoro svolto da Claudio.
 
 ___
 
